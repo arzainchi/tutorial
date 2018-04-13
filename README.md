@@ -1,0 +1,2 @@
+# tutorial
+ini cuma belajar
